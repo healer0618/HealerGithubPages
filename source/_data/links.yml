@@ -1,10 +1,16 @@
-# 成员1
-王小静 :
+# 成员1：
+      #网站链接
+      #头像链接
+      #简介
+微博 :
       link: https://weibo.com/5448294103/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1   
       avatar: https://tvax3.sinaimg.cn/crop.0.0.750.750.180/005WIublly8g455pggh52j30ku0ku0tv.jpg?Expires=1562815617&ssig=cEqcGwkRlb&KID=imgbed,tva
-      descr: 一个集才华与美貌于一身的女子，擅长UI、网页、平面、插画设计，是良师益友。
-# 成员2
-韦小宝 :
-      link: https://weibo.com/weidfyr?from=myfollow_group   
-      avatar: https://tva2.sinaimg.cn/crop.13.0.723.723.180/6281e9fbjw8fatlthzhhzj20ku0k3wg1.jpg?Expires=1562818105&ssig=Xn0P8yNS5K&KID=imgbed,tva
-      descr: 喜欢读书，喜欢写字！喜欢背起行囊，一个人的远行！喜欢低枝扶额的闲漫，喜欢晨曦霞暮的悠然！喜欢一个人！
+      descr: 偏向生活化，主要记录生活随笔，收藏一些设计作品等。
+Instagram :
+      link: https://www.instagram.com/healerwenjing/   
+      avatar: https://scontent-nrt1-1.cdninstagram.com/vp/1217da606774df3e62cdaf6fabf5ae19/5DB8EEDA/t51.2885-19/s150x150/52533074_242465373362578_6420541632923303936_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com
+      descr: 喜欢分享自己的摄影作品，随手拍。
+Dribbble :
+      link: https://dribbble.com/wangwenjing   
+      avatar: https://cdn.dribbble.com/users/3483232/avatars/small/514a201aef99ac6115eaf7b160f63b7b.jpg?1555468814
+      descr: 在这里我会分享自己的设计作品，收藏一些自己喜欢的作品。
