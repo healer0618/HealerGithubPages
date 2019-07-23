@@ -6,6 +6,6 @@ tags:
 categories: Banner# # 分类
 thumbnail:  "/images/banner/01.jpg" # 略缩图
 ---
-** 项目介绍： **为河南省合集情报所APP设计的首页banner
+** 项目介绍： **为河南省科技情报所APP设计的首页banner
 
 
