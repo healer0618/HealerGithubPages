@@ -8,4 +8,4 @@ thumbnail: "/images/gra/05.jpg" # 略缩图
 ---
 ** 项目介绍： **为大医智慧考试平台设计的宣传册
 
-![](https://upload-images.jianshu.io/upload_images/1529765-4910a00354229df5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/images/gra/0501.jpg)
